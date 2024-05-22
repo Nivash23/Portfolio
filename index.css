@@ -59,12 +59,13 @@ i{
 h3{
     background-color: rgb(73, 73, 84);
     width:300px;
+    padding: 5px 5px 5px 5px;
 }
 p{
     width:250px;
 }
 #twohalf p{
-    width:300px;
+    width:310px;
 }
 #contents img{
     height:15px;
